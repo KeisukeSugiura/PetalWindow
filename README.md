@@ -13,7 +13,7 @@ npm install
 ```  
 #### リモート側  
 - ブラウザで指定されたURL（PCのIPアドレス53000番ポート/remote/index）にアクセス  
-初期はhttp://localhost:50000/remote/index
+初期はhttp://localhost:53000/remote/index
 - 観たいウィンドウをクリック
 - ウィンドウキャプチャ動画を観る
 
