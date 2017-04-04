@@ -12,13 +12,13 @@ npm install
 ./node_modules/.bin/electron .
 ```  
 #### リモート側  
-- ブラウザで指定されたURL（PCのIPアドレス53000番ポート/remote/index）にアクセス  
-初期はhttp://localhost:53000/remote/index
+- ブラウザで指定されたURL（https://petalserver.herokuapp.com/remote/index）にアクセス  
+初期はhttps://petalserver.herokuapp.com/remote/index
 - 観たいウィンドウをクリック
 - ウィンドウキャプチャ動画を観る
 
 ### 設定  
-URLを変更する（初期はhttp://localhost:53000）  
+URLを変更する（初期はhttps://petalserver.herokuapp.com/）  
 - /client/module/js/RDSetting.js  
 - /main.js
 
